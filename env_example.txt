@@ -1,0 +1,21 @@
+# Kite Trading Bot Environment Variables
+# Copy this file to .env and fill in your actual values
+
+# Kite Connect API Credentials
+KITE_API_KEY=your_api_key_here
+KITE_API_SECRET=your_api_secret_here
+KITE_ACCESS_TOKEN=your_access_token_here
+
+# Trading Configuration
+MAX_POSITION_SIZE=100000
+MAX_DAILY_LOSS=5000
+MAX_DAILY_TRADES=10
+STOP_LOSS_PERCENTAGE=2.0
+TAKE_PROFIT_PERCENTAGE=3.0
+
+# Environment
+ENV=development
+
+# Logging
+LOG_LEVEL=INFO
+LOG_FILE=trading_bot.log
