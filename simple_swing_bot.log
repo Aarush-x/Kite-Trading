@@ -434,3 +434,1644 @@
 2025-10-08 12:00:01,713 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
 2025-10-08 12:00:01,713 - __main__ - INFO -    Need 7.00% more to reach monthly goal
 2025-10-08 12:00:01,713 - __main__ - INFO - Trading cycle completed
+2025-10-08 12:30:01,737 - __main__ - INFO - Starting trading cycle...
+2025-10-08 12:30:02,202 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-08 12:30:02,586 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-08 12:30:02,863 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-08 12:30:02,864 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-08 12:30:02,864 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-08 12:30:02,864 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-08 12:30:02,864 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-08 12:30:02,864 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-08 12:30:02,864 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-08 12:30:02,864 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-08 12:30:02,864 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-08 12:30:02,864 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-08 12:30:02,864 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-08 12:30:02,865 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-08 12:30:02,865 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-08 12:30:02,865 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-08 12:30:02,865 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-08 12:30:02,865 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-08 12:30:02,865 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-08 12:30:02,865 - __main__ - INFO - Trading cycle completed
+2025-10-08 13:02:55,089 - __main__ - INFO - Starting trading cycle...
+2025-10-08 13:02:55,092 - __main__ - INFO - Outside trading hours
+2025-10-08 13:36:11,268 - __main__ - INFO - Starting trading cycle...
+2025-10-08 13:36:11,271 - __main__ - INFO - Outside trading hours
+2025-10-08 14:12:31,227 - __main__ - INFO - Starting trading cycle...
+2025-10-08 14:12:31,230 - __main__ - INFO - Outside trading hours
+2025-10-08 14:45:57,604 - __main__ - INFO - Starting trading cycle...
+2025-10-08 14:45:57,604 - __main__ - INFO - Outside trading hours
+2025-10-08 15:22:17,175 - __main__ - INFO - Starting trading cycle...
+2025-10-08 15:22:17,178 - __main__ - INFO - Outside trading hours
+2025-10-08 15:52:17,288 - __main__ - INFO - Starting trading cycle...
+2025-10-08 15:52:17,292 - __main__ - INFO - Outside trading hours
+2025-10-08 16:22:55,728 - __main__ - INFO - Starting trading cycle...
+2025-10-08 16:22:55,730 - __main__ - INFO - Outside trading hours
+2025-10-08 16:52:55,983 - __main__ - INFO - Starting trading cycle...
+2025-10-08 16:52:55,986 - __main__ - INFO - Outside trading hours
+2025-10-08 17:23:14,227 - __main__ - INFO - Starting trading cycle...
+2025-10-08 17:23:14,228 - __main__ - INFO - Outside trading hours
+2025-10-08 18:01:09,637 - __main__ - INFO - Starting trading cycle...
+2025-10-08 18:01:09,640 - __main__ - INFO - Outside trading hours
+2025-10-08 18:37:02,479 - __main__ - INFO - Starting trading cycle...
+2025-10-08 18:37:02,481 - __main__ - INFO - Outside trading hours
+2025-10-08 19:12:03,738 - __main__ - INFO - Starting trading cycle...
+2025-10-08 19:12:03,810 - __main__ - INFO - Outside trading hours
+2025-10-08 19:55:13,695 - __main__ - INFO - Starting trading cycle...
+2025-10-08 19:55:13,789 - __main__ - INFO - Outside trading hours
+2025-10-08 20:39:05,492 - __main__ - INFO - Starting trading cycle...
+2025-10-08 20:39:05,495 - __main__ - INFO - Outside trading hours
+2025-10-08 21:13:53,617 - __main__ - INFO - Starting trading cycle...
+2025-10-08 21:13:53,619 - __main__ - INFO - Outside trading hours
+2025-10-08 21:58:47,176 - __main__ - INFO - Starting trading cycle...
+2025-10-08 21:58:47,178 - __main__ - INFO - Outside trading hours
+2025-10-08 22:29:01,050 - __main__ - INFO - Starting trading cycle...
+2025-10-08 22:29:01,051 - __main__ - INFO - Outside trading hours
+2025-10-08 23:01:00,485 - __main__ - INFO - Starting trading cycle...
+2025-10-08 23:01:00,491 - __main__ - INFO - Outside trading hours
+2025-10-08 23:34:43,110 - __main__ - INFO - Starting trading cycle...
+2025-10-08 23:34:43,112 - __main__ - INFO - Outside trading hours
+2025-10-09 00:09:13,294 - __main__ - INFO - Starting trading cycle...
+2025-10-09 00:09:13,295 - __main__ - INFO - Outside trading hours
+2025-10-09 00:44:43,531 - __main__ - INFO - Starting trading cycle...
+2025-10-09 00:44:43,532 - __main__ - INFO - Outside trading hours
+2025-10-09 01:17:22,773 - __main__ - INFO - Starting trading cycle...
+2025-10-09 01:17:22,804 - __main__ - INFO - Outside trading hours
+2025-10-09 01:55:40,191 - __main__ - INFO - Starting trading cycle...
+2025-10-09 01:55:40,193 - __main__ - INFO - Outside trading hours
+2025-10-09 02:30:09,201 - __main__ - INFO - Starting trading cycle...
+2025-10-09 02:30:09,202 - __main__ - INFO - Outside trading hours
+2025-10-09 03:06:11,904 - __main__ - INFO - Starting trading cycle...
+2025-10-09 03:06:11,907 - __main__ - INFO - Outside trading hours
+2025-10-09 03:40:41,938 - __main__ - INFO - Starting trading cycle...
+2025-10-09 03:40:41,945 - __main__ - INFO - Outside trading hours
+2025-10-09 04:19:35,380 - __main__ - INFO - Starting trading cycle...
+2025-10-09 04:19:35,389 - __main__ - INFO - Outside trading hours
+2025-10-09 04:51:16,750 - __main__ - INFO - Starting trading cycle...
+2025-10-09 04:51:16,756 - __main__ - INFO - Outside trading hours
+2025-10-09 05:32:24,660 - __main__ - INFO - Starting trading cycle...
+2025-10-09 05:32:24,754 - __main__ - INFO - Outside trading hours
+2025-10-09 06:07:13,388 - __main__ - INFO - Starting trading cycle...
+2025-10-09 06:07:13,390 - __main__ - INFO - Outside trading hours
+2025-10-09 06:43:00,498 - __main__ - INFO - Starting trading cycle...
+2025-10-09 06:43:00,501 - __main__ - INFO - Outside trading hours
+2025-10-09 07:18:13,904 - __main__ - INFO - Starting trading cycle...
+2025-10-09 07:18:13,905 - __main__ - INFO - Outside trading hours
+2025-10-09 07:51:03,017 - __main__ - INFO - Starting trading cycle...
+2025-10-09 07:51:03,018 - __main__ - INFO - Outside trading hours
+2025-10-09 08:22:24,301 - __main__ - INFO - Starting trading cycle...
+2025-10-09 08:22:24,305 - __main__ - INFO - Outside trading hours
+2025-10-09 08:52:25,273 - __main__ - INFO - Starting trading cycle...
+2025-10-09 08:52:25,277 - __main__ - INFO - Outside trading hours
+2025-10-09 09:00:00,030 - __main__ - INFO - Performing daily reset...
+2025-10-09 09:00:00,033 - portfolio_manager - INFO - Daily statistics reset
+2025-10-09 09:00:00,034 - __main__ - INFO - Daily reset completed
+2025-10-09 09:32:49,880 - __main__ - INFO - Starting trading cycle...
+2025-10-09 09:32:50,772 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-09 09:32:51,086 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-09 09:32:51,388 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-09 09:32:51,389 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 09:32:51,389 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 09:32:51,389 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 09:32:51,389 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 09:32:51,389 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 09:32:51,389 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 09:32:51,389 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 09:32:51,389 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 09:32:51,389 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 09:32:51,389 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 09:32:51,389 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 09:32:51,389 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 09:32:51,389 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 09:32:51,389 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 09:32:51,390 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 09:32:51,390 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 09:32:51,390 - __main__ - INFO - Trading cycle completed
+2025-10-09 10:12:20,895 - __main__ - INFO - Starting trading cycle...
+2025-10-09 10:12:21,647 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-09 10:12:21,971 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-09 10:12:22,262 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-09 10:12:22,263 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 10:12:22,263 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 10:12:22,263 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 10:12:22,263 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 10:12:22,263 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 10:12:22,263 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 10:12:22,263 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 10:12:22,263 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 10:12:22,263 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 10:12:22,263 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 10:12:22,264 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 10:12:22,264 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 10:12:22,264 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 10:12:22,264 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 10:12:22,264 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 10:12:22,264 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 10:12:22,264 - __main__ - INFO - Trading cycle completed
+2025-10-09 10:47:37,585 - __main__ - INFO - Starting trading cycle...
+2025-10-09 10:47:44,648 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-09 10:47:45,180 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-09 10:47:45,565 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-09 10:47:45,565 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 10:47:45,566 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 10:47:45,566 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 10:47:45,566 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 10:47:45,566 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 10:47:45,566 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 10:47:45,566 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 10:47:45,566 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 10:47:45,566 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 10:47:45,566 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 10:47:45,566 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 10:47:45,566 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 10:47:45,567 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 10:47:45,567 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 10:47:45,567 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 10:47:45,567 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 10:47:45,567 - __main__ - INFO - Trading cycle completed
+2025-10-09 11:21:52,446 - __main__ - INFO - Starting trading cycle...
+2025-10-09 11:21:59,615 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-09 11:22:00,174 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-09 11:22:01,224 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-09 11:22:01,225 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 11:22:01,225 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 11:22:01,225 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 11:22:01,225 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 11:22:01,225 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 11:22:01,225 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 11:22:01,225 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 11:22:01,225 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 11:22:01,225 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 11:22:01,225 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 11:22:01,226 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 11:22:01,226 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 11:22:01,226 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 11:22:01,226 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 11:22:01,226 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 11:22:01,226 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 11:22:01,226 - __main__ - INFO - Trading cycle completed
+2025-10-09 11:54:55,440 - __main__ - INFO - Starting trading cycle...
+2025-10-09 11:55:02,455 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-09 11:55:02,872 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-09 11:55:03,188 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-09 11:55:03,189 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 11:55:03,189 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 11:55:03,189 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 11:55:03,189 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 11:55:03,189 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 11:55:03,189 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 11:55:03,189 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 11:55:03,189 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 11:55:03,189 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 11:55:03,190 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 11:55:03,190 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 11:55:03,190 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 11:55:03,190 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 11:55:03,190 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 11:55:03,190 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 11:55:03,190 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 11:55:03,190 - __main__ - INFO - Trading cycle completed
+2025-10-09 12:36:29,878 - __main__ - INFO - Starting trading cycle...
+2025-10-09 12:36:36,894 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-09 12:36:36,953 - kite_client - ERROR - Failed to get holdings: HTTPSConnectionPool(host='api.kite.trade', port=443): Max retries exceeded with url: /portfolio/holdings (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x114f94050>: Failed to resolve 'api.kite.trade' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-09 12:36:36,955 - kite_client - ERROR - Failed to get margins: HTTPSConnectionPool(host='api.kite.trade', port=443): Max retries exceeded with url: /user/margins (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x114f17d90>: Failed to resolve 'api.kite.trade' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-09 12:36:36,956 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-09 12:36:36,956 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-09 12:36:36,956 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-09 12:36:36,956 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-09 12:36:36,956 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-09 12:36:36,956 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 12:36:36,956 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-09 12:36:36,956 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-09 12:36:36,956 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-09 12:36:36,956 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-09 12:36:36,956 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-09 12:36:36,956 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-09 12:36:36,956 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-09 12:36:36,956 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-09 12:36:36,956 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-09 12:36:36,956 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-09 12:36:36,956 - __main__ - INFO - Trading cycle completed
+2025-10-09 13:06:37,007 - __main__ - INFO - Starting trading cycle...
+2025-10-09 13:06:37,010 - __main__ - INFO - Outside trading hours
+2025-10-09 13:43:15,829 - __main__ - INFO - Starting trading cycle...
+2025-10-09 13:43:15,833 - __main__ - INFO - Outside trading hours
+2025-10-09 14:26:37,429 - __main__ - INFO - Starting trading cycle...
+2025-10-09 14:26:37,431 - __main__ - INFO - Outside trading hours
+2025-10-09 15:01:46,082 - __main__ - INFO - Starting trading cycle...
+2025-10-09 15:01:46,084 - __main__ - INFO - Outside trading hours
+2025-10-09 15:35:58,268 - __main__ - INFO - Starting trading cycle...
+2025-10-09 15:35:58,274 - __main__ - INFO - Outside trading hours
+2025-10-09 16:07:03,687 - __main__ - INFO - Starting trading cycle...
+2025-10-09 16:07:03,688 - __main__ - INFO - Outside trading hours
+2025-10-09 16:42:24,306 - __main__ - INFO - Starting trading cycle...
+2025-10-09 16:42:24,307 - __main__ - INFO - Outside trading hours
+2025-10-09 17:25:54,192 - __main__ - INFO - Starting trading cycle...
+2025-10-09 17:25:54,194 - __main__ - INFO - Outside trading hours
+2025-10-09 18:08:36,907 - __main__ - INFO - Starting trading cycle...
+2025-10-09 18:08:36,908 - __main__ - INFO - Outside trading hours
+2025-10-09 18:38:37,054 - __main__ - INFO - Starting trading cycle...
+2025-10-09 18:38:37,056 - __main__ - INFO - Outside trading hours
+2025-10-09 19:09:36,609 - __main__ - INFO - Starting trading cycle...
+2025-10-09 19:09:36,678 - __main__ - INFO - Outside trading hours
+2025-10-09 19:41:17,147 - __main__ - INFO - Starting trading cycle...
+2025-10-09 19:41:17,148 - __main__ - INFO - Outside trading hours
+2025-10-09 20:28:22,519 - __main__ - INFO - Starting trading cycle...
+2025-10-09 20:28:22,614 - __main__ - INFO - Outside trading hours
+2025-10-09 21:02:25,903 - __main__ - INFO - Starting trading cycle...
+2025-10-09 21:02:25,904 - __main__ - INFO - Outside trading hours
+2025-10-09 21:42:44,697 - __main__ - INFO - Starting trading cycle...
+2025-10-09 21:42:44,703 - __main__ - INFO - Outside trading hours
+2025-10-09 22:12:45,164 - __main__ - INFO - Starting trading cycle...
+2025-10-09 22:12:45,168 - __main__ - INFO - Outside trading hours
+2025-10-09 22:42:45,664 - __main__ - INFO - Starting trading cycle...
+2025-10-09 22:42:45,667 - __main__ - INFO - Outside trading hours
+2025-10-09 23:24:55,793 - __main__ - INFO - Starting trading cycle...
+2025-10-09 23:24:55,795 - __main__ - INFO - Outside trading hours
+2025-10-09 23:56:32,056 - __main__ - INFO - Starting trading cycle...
+2025-10-09 23:56:32,056 - __main__ - INFO - Outside trading hours
+2025-10-10 00:28:49,333 - __main__ - INFO - Starting trading cycle...
+2025-10-10 00:28:49,336 - __main__ - INFO - Outside trading hours
+2025-10-10 01:02:56,500 - __main__ - INFO - Starting trading cycle...
+2025-10-10 01:02:56,593 - __main__ - INFO - Outside trading hours
+2025-10-10 01:34:26,913 - __main__ - INFO - Starting trading cycle...
+2025-10-10 01:34:26,915 - __main__ - INFO - Outside trading hours
+2025-10-10 02:05:07,782 - __main__ - INFO - Starting trading cycle...
+2025-10-10 02:05:07,874 - __main__ - INFO - Outside trading hours
+2025-10-10 02:38:10,897 - __main__ - INFO - Starting trading cycle...
+2025-10-10 02:38:10,898 - __main__ - INFO - Outside trading hours
+2025-10-10 03:13:09,147 - __main__ - INFO - Starting trading cycle...
+2025-10-10 03:13:09,150 - __main__ - INFO - Outside trading hours
+2025-10-10 03:46:48,366 - __main__ - INFO - Starting trading cycle...
+2025-10-10 03:46:48,366 - __main__ - INFO - Outside trading hours
+2025-10-10 04:18:47,551 - __main__ - INFO - Starting trading cycle...
+2025-10-10 04:18:47,552 - __main__ - INFO - Outside trading hours
+2025-10-10 04:51:09,799 - __main__ - INFO - Starting trading cycle...
+2025-10-10 04:51:09,800 - __main__ - INFO - Outside trading hours
+2025-10-10 05:22:40,996 - __main__ - INFO - Starting trading cycle...
+2025-10-10 05:22:40,997 - __main__ - INFO - Outside trading hours
+2025-10-10 06:07:02,625 - __main__ - INFO - Starting trading cycle...
+2025-10-10 06:07:02,626 - __main__ - INFO - Outside trading hours
+2025-10-10 06:40:45,007 - __main__ - INFO - Starting trading cycle...
+2025-10-10 06:40:45,008 - __main__ - INFO - Outside trading hours
+2025-10-10 07:20:36,037 - __main__ - INFO - Starting trading cycle...
+2025-10-10 07:20:36,037 - __main__ - INFO - Outside trading hours
+2025-10-10 08:07:53,867 - __main__ - INFO - Starting trading cycle...
+2025-10-10 08:07:53,868 - __main__ - INFO - Outside trading hours
+2025-10-10 08:50:21,574 - __main__ - INFO - Starting trading cycle...
+2025-10-10 08:50:21,575 - __main__ - INFO - Outside trading hours
+2025-10-10 09:06:49,577 - __main__ - INFO - Performing daily reset...
+2025-10-10 09:06:49,578 - portfolio_manager - INFO - Daily statistics reset
+2025-10-10 09:06:49,578 - __main__ - INFO - Daily reset completed
+2025-10-10 09:20:22,469 - __main__ - INFO - Starting trading cycle...
+2025-10-10 09:20:22,925 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-10 09:20:23,234 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 09:20:23,803 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 09:20:23,803 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 09:20:23,803 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 09:20:23,803 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 09:20:23,803 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 09:20:23,803 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 09:20:23,803 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 09:20:23,803 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 09:20:23,803 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 09:20:23,803 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 09:20:23,803 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 09:20:23,803 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 09:20:23,804 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 09:20:23,804 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 09:20:23,804 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 09:20:23,804 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 09:20:23,804 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 09:20:23,804 - __main__ - INFO - Trading cycle completed
+2025-10-10 09:53:18,593 - __main__ - INFO - Starting trading cycle...
+2025-10-10 09:53:25,591 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-10 09:53:25,917 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 09:53:26,185 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 09:53:26,185 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 09:53:26,185 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 09:53:26,185 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 09:53:26,185 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 09:53:26,185 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 09:53:26,186 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 09:53:26,186 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 09:53:26,186 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 09:53:26,186 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 09:53:26,186 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 09:53:26,186 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 09:53:26,186 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 09:53:26,186 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 09:53:26,186 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 09:53:26,186 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 09:53:26,186 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 09:53:26,186 - __main__ - INFO - Trading cycle completed
+2025-10-10 10:27:44,385 - __main__ - INFO - Starting trading cycle...
+2025-10-10 10:27:51,391 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-10 10:27:51,795 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 10:27:52,061 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 10:27:52,062 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 10:27:52,062 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 10:27:52,062 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 10:27:52,062 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 10:27:52,062 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 10:27:52,062 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 10:27:52,062 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 10:27:52,062 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 10:27:52,063 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 10:27:52,063 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 10:27:52,063 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 10:27:52,063 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 10:27:52,063 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 10:27:52,063 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 10:27:52,063 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 10:27:52,063 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 10:27:52,063 - __main__ - INFO - Trading cycle completed
+2025-10-10 10:57:52,338 - __main__ - INFO - Starting trading cycle...
+2025-10-10 10:57:59,350 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-10 10:57:59,812 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 10:58:00,169 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 10:58:00,170 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 10:58:00,170 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 10:58:00,170 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 10:58:00,170 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 10:58:00,170 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 10:58:00,170 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 10:58:00,170 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 10:58:00,170 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 10:58:00,170 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 10:58:00,170 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 10:58:00,170 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 10:58:00,170 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 10:58:00,170 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 10:58:00,170 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 10:58:00,171 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 10:58:00,171 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 10:58:00,171 - __main__ - INFO - Trading cycle completed
+2025-10-10 11:28:01,100 - __main__ - INFO - Starting trading cycle...
+2025-10-10 11:28:08,789 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-10 11:28:09,274 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 11:28:09,709 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 11:28:09,709 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 11:28:09,710 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 11:28:09,710 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 11:28:09,710 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 11:28:09,710 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 11:28:09,710 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 11:28:09,710 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 11:28:09,710 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 11:28:09,710 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 11:28:09,710 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 11:28:09,710 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 11:28:09,711 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 11:28:09,711 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 11:28:09,711 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 11:28:09,711 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 11:28:09,711 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 11:28:09,711 - __main__ - INFO - Trading cycle completed
+2025-10-10 11:58:10,648 - __main__ - INFO - Starting trading cycle...
+2025-10-10 11:58:11,131 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-10 11:58:11,516 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 11:58:11,835 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 11:58:11,835 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 11:58:11,836 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 11:58:11,836 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 11:58:11,836 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 11:58:11,836 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 11:58:11,836 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 11:58:11,836 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 11:58:11,836 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 11:58:11,836 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 11:58:11,836 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 11:58:11,836 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 11:58:11,837 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 11:58:11,837 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 11:58:11,838 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 11:58:11,838 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 11:58:11,838 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 11:58:11,838 - __main__ - INFO - Trading cycle completed
+2025-10-10 12:28:12,552 - __main__ - INFO - Starting trading cycle...
+2025-10-10 12:28:19,567 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-10 12:28:19,917 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-10 12:28:20,234 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-10 12:28:20,234 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-10 12:28:20,234 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-10 12:28:20,235 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-10 12:28:20,235 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-10 12:28:20,235 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-10 12:28:20,235 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 12:28:20,235 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-10 12:28:20,235 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-10 12:28:20,235 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-10 12:28:20,235 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-10 12:28:20,235 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-10 12:28:20,236 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-10 12:28:20,236 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-10 12:28:20,236 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-10 12:28:20,236 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-10 12:28:20,236 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-10 12:28:20,236 - __main__ - INFO - Trading cycle completed
+2025-10-10 13:01:50,553 - __main__ - INFO - Starting trading cycle...
+2025-10-10 13:01:50,560 - __main__ - INFO - Outside trading hours
+2025-10-10 13:31:50,562 - __main__ - INFO - Starting trading cycle...
+2025-10-10 13:31:50,567 - __main__ - INFO - Outside trading hours
+2025-10-10 14:01:51,547 - __main__ - INFO - Starting trading cycle...
+2025-10-10 14:01:51,551 - __main__ - INFO - Outside trading hours
+2025-10-10 14:31:51,571 - __main__ - INFO - Starting trading cycle...
+2025-10-10 14:31:51,580 - __main__ - INFO - Outside trading hours
+2025-10-10 15:01:51,670 - __main__ - INFO - Starting trading cycle...
+2025-10-10 15:01:51,674 - __main__ - INFO - Outside trading hours
+2025-10-10 15:31:52,475 - __main__ - INFO - Starting trading cycle...
+2025-10-10 15:31:52,483 - __main__ - INFO - Outside trading hours
+2025-10-10 16:16:07,946 - __main__ - INFO - Starting trading cycle...
+2025-10-10 16:16:07,950 - __main__ - INFO - Outside trading hours
+2025-10-10 16:49:04,355 - __main__ - INFO - Starting trading cycle...
+2025-10-10 16:49:04,360 - __main__ - INFO - Outside trading hours
+2025-10-10 17:20:51,809 - __main__ - INFO - Starting trading cycle...
+2025-10-10 17:20:51,814 - __main__ - INFO - Outside trading hours
+2025-10-10 17:55:42,766 - __main__ - INFO - Starting trading cycle...
+2025-10-10 17:55:42,772 - __main__ - INFO - Outside trading hours
+2025-10-10 18:25:43,724 - __main__ - INFO - Starting trading cycle...
+2025-10-10 18:25:43,730 - __main__ - INFO - Outside trading hours
+2025-10-10 18:55:44,154 - __main__ - INFO - Starting trading cycle...
+2025-10-10 18:55:44,160 - __main__ - INFO - Outside trading hours
+2025-10-10 19:25:44,886 - __main__ - INFO - Starting trading cycle...
+2025-10-10 19:25:44,891 - __main__ - INFO - Outside trading hours
+2025-10-10 19:55:45,540 - __main__ - INFO - Starting trading cycle...
+2025-10-10 19:55:45,546 - __main__ - INFO - Outside trading hours
+2025-10-10 20:32:07,472 - __main__ - INFO - Starting trading cycle...
+2025-10-10 20:32:07,531 - __main__ - INFO - Outside trading hours
+2025-10-10 21:07:40,799 - __main__ - INFO - Starting trading cycle...
+2025-10-10 21:07:40,802 - __main__ - INFO - Outside trading hours
+2025-10-10 21:43:27,771 - __main__ - INFO - Starting trading cycle...
+2025-10-10 21:43:27,773 - __main__ - INFO - Outside trading hours
+2025-10-10 22:16:51,748 - __main__ - INFO - Starting trading cycle...
+2025-10-10 22:16:51,750 - __main__ - INFO - Outside trading hours
+2025-10-10 23:02:43,867 - __main__ - INFO - Starting trading cycle...
+2025-10-10 23:02:44,009 - __main__ - INFO - Outside trading hours
+2025-10-10 23:32:44,186 - __main__ - INFO - Starting trading cycle...
+2025-10-10 23:32:44,189 - __main__ - INFO - Outside trading hours
+2025-10-11 00:02:45,045 - __main__ - INFO - Starting trading cycle...
+2025-10-11 00:02:45,048 - __main__ - INFO - Outside trading hours
+2025-10-11 00:37:21,888 - __main__ - INFO - Starting trading cycle...
+2025-10-11 00:37:21,890 - __main__ - INFO - Outside trading hours
+2025-10-11 01:10:34,019 - __main__ - INFO - Starting trading cycle...
+2025-10-11 01:10:34,021 - __main__ - INFO - Outside trading hours
+2025-10-11 01:43:55,629 - __main__ - INFO - Starting trading cycle...
+2025-10-11 01:43:55,636 - __main__ - INFO - Outside trading hours
+2025-10-11 02:22:31,492 - __main__ - INFO - Starting trading cycle...
+2025-10-11 02:22:31,494 - __main__ - INFO - Outside trading hours
+2025-10-11 02:57:19,891 - __main__ - INFO - Starting trading cycle...
+2025-10-11 02:57:19,892 - __main__ - INFO - Outside trading hours
+2025-10-11 03:30:23,339 - __main__ - INFO - Starting trading cycle...
+2025-10-11 03:30:23,437 - __main__ - INFO - Outside trading hours
+2025-10-11 04:06:49,807 - __main__ - INFO - Starting trading cycle...
+2025-10-11 04:06:49,809 - __main__ - INFO - Outside trading hours
+2025-10-11 04:39:37,215 - __main__ - INFO - Starting trading cycle...
+2025-10-11 04:39:37,215 - __main__ - INFO - Outside trading hours
+2025-10-11 05:11:20,474 - __main__ - INFO - Starting trading cycle...
+2025-10-11 05:11:20,475 - __main__ - INFO - Outside trading hours
+2025-10-11 05:41:39,955 - __main__ - INFO - Starting trading cycle...
+2025-10-11 05:41:39,956 - __main__ - INFO - Outside trading hours
+2025-10-11 06:19:14,712 - __main__ - INFO - Starting trading cycle...
+2025-10-11 06:19:14,716 - __main__ - INFO - Outside trading hours
+2025-10-11 06:52:36,762 - __main__ - INFO - Starting trading cycle...
+2025-10-11 06:52:36,764 - __main__ - INFO - Outside trading hours
+2025-10-11 07:26:09,970 - __main__ - INFO - Starting trading cycle...
+2025-10-11 07:26:09,971 - __main__ - INFO - Outside trading hours
+2025-10-11 07:58:01,652 - __main__ - INFO - Starting trading cycle...
+2025-10-11 07:58:01,654 - __main__ - INFO - Outside trading hours
+2025-10-11 08:37:27,858 - __main__ - INFO - Starting trading cycle...
+2025-10-11 08:37:27,861 - __main__ - INFO - Outside trading hours
+2025-10-11 09:05:10,862 - __main__ - INFO - Performing daily reset...
+2025-10-11 09:05:10,864 - portfolio_manager - INFO - Daily statistics reset
+2025-10-11 09:05:10,864 - __main__ - INFO - Daily reset completed
+2025-10-11 09:16:42,094 - __main__ - INFO - Starting trading cycle...
+2025-10-11 09:16:42,152 - __main__ - INFO - Outside trading hours
+2025-10-11 09:54:42,437 - __main__ - INFO - Starting trading cycle...
+2025-10-11 09:54:42,438 - __main__ - INFO - Outside trading hours
+2025-10-11 10:24:42,647 - __main__ - INFO - Starting trading cycle...
+2025-10-11 10:24:42,651 - __main__ - INFO - Outside trading hours
+2025-10-11 10:54:42,752 - __main__ - INFO - Starting trading cycle...
+2025-10-11 10:54:42,767 - __main__ - INFO - Outside trading hours
+2025-10-11 11:37:39,307 - __main__ - INFO - Starting trading cycle...
+2025-10-11 11:37:39,393 - __main__ - INFO - Outside trading hours
+2025-10-11 12:07:39,853 - __main__ - INFO - Starting trading cycle...
+2025-10-11 12:07:39,859 - __main__ - INFO - Outside trading hours
+2025-10-11 12:52:34,415 - __main__ - INFO - Starting trading cycle...
+2025-10-11 12:52:34,430 - __main__ - INFO - Outside trading hours
+2025-10-11 13:26:21,499 - __main__ - INFO - Starting trading cycle...
+2025-10-11 13:26:21,501 - __main__ - INFO - Outside trading hours
+2025-10-11 13:56:21,700 - __main__ - INFO - Starting trading cycle...
+2025-10-11 13:56:21,705 - __main__ - INFO - Outside trading hours
+2025-10-11 14:39:28,609 - __main__ - INFO - Starting trading cycle...
+2025-10-11 14:39:28,618 - __main__ - INFO - Outside trading hours
+2025-10-11 15:12:55,686 - __main__ - INFO - Starting trading cycle...
+2025-10-11 15:12:55,688 - __main__ - INFO - Outside trading hours
+2025-10-11 15:46:48,829 - __main__ - INFO - Starting trading cycle...
+2025-10-11 15:46:48,835 - __main__ - INFO - Outside trading hours
+2025-10-11 16:17:00,885 - __main__ - INFO - Starting trading cycle...
+2025-10-11 16:17:00,887 - __main__ - INFO - Outside trading hours
+2025-10-11 16:53:30,511 - __main__ - INFO - Starting trading cycle...
+2025-10-11 16:53:30,512 - __main__ - INFO - Outside trading hours
+2025-10-11 17:36:37,061 - __main__ - INFO - Starting trading cycle...
+2025-10-11 17:36:37,064 - __main__ - INFO - Outside trading hours
+2025-10-11 18:08:57,094 - __main__ - INFO - Starting trading cycle...
+2025-10-11 18:08:57,096 - __main__ - INFO - Outside trading hours
+2025-10-11 18:54:01,240 - __main__ - INFO - Starting trading cycle...
+2025-10-11 18:54:01,327 - __main__ - INFO - Outside trading hours
+2025-10-11 19:37:06,833 - __main__ - INFO - Starting trading cycle...
+2025-10-11 19:37:06,836 - __main__ - INFO - Outside trading hours
+2025-10-11 20:10:31,894 - __main__ - INFO - Starting trading cycle...
+2025-10-11 20:10:31,898 - __main__ - INFO - Outside trading hours
+2025-10-11 20:57:49,256 - __main__ - INFO - Starting trading cycle...
+2025-10-11 20:57:49,327 - __main__ - INFO - Outside trading hours
+2025-10-11 21:38:35,912 - __main__ - INFO - Starting trading cycle...
+2025-10-11 21:38:35,914 - __main__ - INFO - Outside trading hours
+2025-10-11 22:15:50,033 - __main__ - INFO - Starting trading cycle...
+2025-10-11 22:15:50,035 - __main__ - INFO - Outside trading hours
+2025-10-11 22:58:31,918 - __main__ - INFO - Starting trading cycle...
+2025-10-11 22:58:31,921 - __main__ - INFO - Outside trading hours
+2025-10-11 23:28:32,279 - __main__ - INFO - Starting trading cycle...
+2025-10-11 23:28:32,283 - __main__ - INFO - Outside trading hours
+2025-10-12 00:15:27,432 - __main__ - INFO - Starting trading cycle...
+2025-10-12 00:15:27,433 - __main__ - INFO - Outside trading hours
+2025-10-12 00:59:59,120 - __main__ - INFO - Starting trading cycle...
+2025-10-12 00:59:59,217 - __main__ - INFO - Outside trading hours
+2025-10-12 01:30:37,652 - __main__ - INFO - Starting trading cycle...
+2025-10-12 01:30:37,652 - __main__ - INFO - Outside trading hours
+2025-10-12 02:14:34,811 - __main__ - INFO - Starting trading cycle...
+2025-10-12 02:14:34,813 - __main__ - INFO - Outside trading hours
+2025-10-12 02:49:54,044 - __main__ - INFO - Starting trading cycle...
+2025-10-12 02:49:54,044 - __main__ - INFO - Outside trading hours
+2025-10-12 03:24:22,307 - __main__ - INFO - Starting trading cycle...
+2025-10-12 03:24:22,308 - __main__ - INFO - Outside trading hours
+2025-10-12 03:57:56,499 - __main__ - INFO - Starting trading cycle...
+2025-10-12 03:57:56,499 - __main__ - INFO - Outside trading hours
+2025-10-12 04:30:49,662 - __main__ - INFO - Starting trading cycle...
+2025-10-12 04:30:49,663 - __main__ - INFO - Outside trading hours
+2025-10-12 05:05:47,884 - __main__ - INFO - Starting trading cycle...
+2025-10-12 05:05:47,885 - __main__ - INFO - Outside trading hours
+2025-10-12 05:37:37,966 - __main__ - INFO - Starting trading cycle...
+2025-10-12 05:37:37,966 - __main__ - INFO - Outside trading hours
+2025-10-12 06:13:13,212 - __main__ - INFO - Starting trading cycle...
+2025-10-12 06:13:13,212 - __main__ - INFO - Outside trading hours
+2025-10-12 06:47:41,433 - __main__ - INFO - Starting trading cycle...
+2025-10-12 06:47:41,433 - __main__ - INFO - Outside trading hours
+2025-10-12 07:19:02,634 - __main__ - INFO - Starting trading cycle...
+2025-10-12 07:19:02,635 - __main__ - INFO - Outside trading hours
+2025-10-12 07:51:49,889 - __main__ - INFO - Starting trading cycle...
+2025-10-12 07:51:49,890 - __main__ - INFO - Outside trading hours
+2025-10-12 08:29:14,459 - __main__ - INFO - Starting trading cycle...
+2025-10-12 08:29:14,461 - __main__ - INFO - Outside trading hours
+2025-10-12 09:13:48,541 - __main__ - INFO - Starting trading cycle...
+2025-10-12 09:13:48,541 - __main__ - INFO - Outside trading hours
+2025-10-12 09:13:48,541 - __main__ - INFO - Performing daily reset...
+2025-10-12 09:13:48,542 - portfolio_manager - INFO - Daily statistics reset
+2025-10-12 09:13:48,542 - __main__ - INFO - Daily reset completed
+2025-10-12 09:50:01,509 - __main__ - INFO - Starting trading cycle...
+2025-10-12 09:50:01,510 - __main__ - INFO - Outside trading hours
+2025-10-12 10:20:02,245 - __main__ - INFO - Starting trading cycle...
+2025-10-12 10:20:02,248 - __main__ - INFO - Outside trading hours
+2025-10-12 10:53:42,652 - __main__ - INFO - Starting trading cycle...
+2025-10-12 10:53:42,654 - __main__ - INFO - Outside trading hours
+2025-10-12 11:34:13,047 - __main__ - INFO - Starting trading cycle...
+2025-10-12 11:34:13,144 - __main__ - INFO - Outside trading hours
+2025-10-12 12:10:19,371 - __main__ - INFO - Starting trading cycle...
+2025-10-12 12:10:19,371 - __main__ - INFO - Outside trading hours
+2025-10-12 12:54:20,041 - __main__ - INFO - Starting trading cycle...
+2025-10-12 12:54:20,130 - __main__ - INFO - Outside trading hours
+2025-10-12 13:33:25,214 - __main__ - INFO - Starting trading cycle...
+2025-10-12 13:33:25,215 - __main__ - INFO - Outside trading hours
+2025-10-12 14:06:51,974 - __main__ - INFO - Starting trading cycle...
+2025-10-12 14:06:51,975 - __main__ - INFO - Outside trading hours
+2025-10-12 14:39:45,093 - __main__ - INFO - Starting trading cycle...
+2025-10-12 14:39:45,093 - __main__ - INFO - Outside trading hours
+2025-10-12 15:13:08,350 - __main__ - INFO - Starting trading cycle...
+2025-10-12 15:13:08,350 - __main__ - INFO - Outside trading hours
+2025-10-12 15:53:27,047 - __main__ - INFO - Starting trading cycle...
+2025-10-12 15:53:27,129 - __main__ - INFO - Outside trading hours
+2025-10-12 16:35:04,695 - __main__ - INFO - Starting trading cycle...
+2025-10-12 16:35:04,696 - __main__ - INFO - Outside trading hours
+2025-10-12 17:06:31,837 - __main__ - INFO - Starting trading cycle...
+2025-10-12 17:06:31,838 - __main__ - INFO - Outside trading hours
+2025-10-12 17:51:55,172 - __main__ - INFO - Starting trading cycle...
+2025-10-12 17:51:55,172 - __main__ - INFO - Outside trading hours
+2025-10-12 18:37:21,871 - __main__ - INFO - Starting trading cycle...
+2025-10-12 18:37:21,871 - __main__ - INFO - Outside trading hours
+2025-10-12 19:11:05,126 - __main__ - INFO - Starting trading cycle...
+2025-10-12 19:11:05,126 - __main__ - INFO - Outside trading hours
+2025-10-12 19:55:48,721 - __main__ - INFO - Starting trading cycle...
+2025-10-12 19:55:48,721 - __main__ - INFO - Outside trading hours
+2025-10-12 20:40:19,589 - __main__ - INFO - Starting trading cycle...
+2025-10-12 20:40:19,589 - __main__ - INFO - Outside trading hours
+2025-10-12 21:13:49,670 - __main__ - INFO - Starting trading cycle...
+2025-10-12 21:13:49,671 - __main__ - INFO - Outside trading hours
+2025-10-12 21:59:59,264 - __main__ - INFO - Starting trading cycle...
+2025-10-12 21:59:59,265 - __main__ - INFO - Outside trading hours
+2025-10-12 22:38:07,248 - __main__ - INFO - Starting trading cycle...
+2025-10-12 22:38:07,249 - __main__ - INFO - Outside trading hours
+2025-10-12 23:08:08,188 - __main__ - INFO - Starting trading cycle...
+2025-10-12 23:08:08,190 - __main__ - INFO - Outside trading hours
+2025-10-12 23:38:09,088 - __main__ - INFO - Starting trading cycle...
+2025-10-12 23:38:09,091 - __main__ - INFO - Outside trading hours
+2025-10-13 00:10:15,301 - __main__ - INFO - Starting trading cycle...
+2025-10-13 00:10:15,302 - __main__ - INFO - Outside trading hours
+2025-10-13 00:46:12,316 - __main__ - INFO - Starting trading cycle...
+2025-10-13 00:46:12,317 - __main__ - INFO - Outside trading hours
+2025-10-13 01:19:25,343 - __main__ - INFO - Starting trading cycle...
+2025-10-13 01:19:25,344 - __main__ - INFO - Outside trading hours
+2025-10-13 01:51:55,119 - __main__ - INFO - Starting trading cycle...
+2025-10-13 01:51:55,119 - __main__ - INFO - Outside trading hours
+2025-10-13 02:29:35,729 - __main__ - INFO - Starting trading cycle...
+2025-10-13 02:29:35,730 - __main__ - INFO - Outside trading hours
+2025-10-13 03:05:17,068 - __main__ - INFO - Starting trading cycle...
+2025-10-13 03:05:17,069 - __main__ - INFO - Outside trading hours
+2025-10-13 03:37:35,431 - __main__ - INFO - Starting trading cycle...
+2025-10-13 03:37:35,432 - __main__ - INFO - Outside trading hours
+2025-10-13 04:13:05,654 - __main__ - INFO - Starting trading cycle...
+2025-10-13 04:13:05,654 - __main__ - INFO - Outside trading hours
+2025-10-13 04:45:52,777 - __main__ - INFO - Starting trading cycle...
+2025-10-13 04:45:52,778 - __main__ - INFO - Outside trading hours
+2025-10-13 05:19:01,971 - __main__ - INFO - Starting trading cycle...
+2025-10-13 05:19:01,982 - __main__ - INFO - Outside trading hours
+2025-10-13 05:52:43,482 - __main__ - INFO - Starting trading cycle...
+2025-10-13 05:52:43,483 - __main__ - INFO - Outside trading hours
+2025-10-13 06:26:01,964 - __main__ - INFO - Starting trading cycle...
+2025-10-13 06:26:02,025 - __main__ - INFO - Outside trading hours
+2025-10-13 06:59:02,925 - __main__ - INFO - Starting trading cycle...
+2025-10-13 06:59:02,990 - __main__ - INFO - Outside trading hours
+2025-10-13 07:34:20,209 - __main__ - INFO - Starting trading cycle...
+2025-10-13 07:34:20,209 - __main__ - INFO - Outside trading hours
+2025-10-13 08:09:07,184 - __main__ - INFO - Starting trading cycle...
+2025-10-13 08:09:07,186 - __main__ - INFO - Outside trading hours
+2025-10-13 08:44:46,475 - __main__ - INFO - Starting trading cycle...
+2025-10-13 08:44:46,476 - __main__ - INFO - Outside trading hours
+2025-10-13 09:02:39,541 - __main__ - INFO - Performing daily reset...
+2025-10-13 09:02:39,542 - portfolio_manager - INFO - Daily statistics reset
+2025-10-13 09:02:39,542 - __main__ - INFO - Daily reset completed
+2025-10-13 09:16:03,579 - __main__ - INFO - Starting trading cycle...
+2025-10-13 09:16:04,034 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-13 09:16:04,307 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 09:16:05,297 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 09:16:05,299 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 09:16:05,299 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 09:16:05,299 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 09:16:05,299 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 09:16:05,299 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 09:16:05,299 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 09:16:05,299 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 09:16:05,300 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 09:16:05,300 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 09:16:05,300 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 09:16:05,300 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 09:16:05,300 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 09:16:05,300 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 09:16:05,300 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 09:16:05,300 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 09:16:05,300 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 09:16:05,300 - __main__ - INFO - Trading cycle completed
+2025-10-13 09:51:21,901 - __main__ - INFO - Starting trading cycle...
+2025-10-13 09:51:22,475 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 09:51:22,902 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 09:51:23,165 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 09:51:23,165 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 09:51:23,165 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 09:51:23,165 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 09:51:23,165 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 09:51:23,165 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 09:51:23,166 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 09:51:23,166 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 09:51:23,166 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 09:51:23,166 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 09:51:23,166 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 09:51:23,166 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 09:51:23,166 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 09:51:23,166 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 09:51:23,166 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 09:51:23,166 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 09:51:23,166 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 09:51:23,166 - __main__ - INFO - Trading cycle completed
+2025-10-13 10:27:01,757 - __main__ - INFO - Starting trading cycle...
+2025-10-13 10:27:01,784 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 10:27:02,257 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 10:27:02,680 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 10:27:02,681 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 10:27:02,681 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 10:27:02,681 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 10:27:02,682 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 10:27:02,682 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 10:27:02,682 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 10:27:02,682 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 10:27:02,682 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 10:27:02,682 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 10:27:02,682 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 10:27:02,682 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 10:27:02,683 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 10:27:02,683 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 10:27:02,683 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 10:27:02,683 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 10:27:02,683 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 10:27:02,683 - __main__ - INFO - Trading cycle completed
+2025-10-13 11:10:56,340 - __main__ - INFO - Starting trading cycle...
+2025-10-13 11:10:56,524 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 11:10:56,934 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 11:10:57,358 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 11:10:57,358 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 11:10:57,359 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 11:10:57,359 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 11:10:57,359 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 11:10:57,359 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 11:10:57,359 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 11:10:57,359 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 11:10:57,359 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 11:10:57,359 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 11:10:57,359 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 11:10:57,359 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 11:10:57,359 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 11:10:57,359 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 11:10:57,359 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 11:10:57,359 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 11:10:57,359 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 11:10:57,359 - __main__ - INFO - Trading cycle completed
+2025-10-13 11:43:16,555 - __main__ - INFO - Starting trading cycle...
+2025-10-13 11:43:16,587 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 11:43:17,028 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 11:43:18,088 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 11:43:18,088 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 11:43:18,089 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 11:43:18,089 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 11:43:18,089 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 11:43:18,089 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 11:43:18,089 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 11:43:18,089 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 11:43:18,089 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 11:43:18,089 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 11:43:18,091 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 11:43:18,091 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 11:43:18,091 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 11:43:18,091 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 11:43:18,091 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 11:43:18,091 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 11:43:18,091 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 11:43:18,091 - __main__ - INFO - Trading cycle completed
+2025-10-13 12:13:43,690 - __main__ - INFO - Starting trading cycle...
+2025-10-13 12:13:43,720 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 12:13:44,246 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 12:13:44,543 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 12:13:44,543 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 12:13:44,543 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 12:13:44,543 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 12:13:44,543 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 12:13:44,544 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 12:13:44,544 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 12:13:44,544 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 12:13:44,544 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 12:13:44,544 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 12:13:44,544 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 12:13:44,544 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 12:13:44,544 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 12:13:44,544 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 12:13:44,544 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 12:13:44,544 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 12:13:44,544 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 12:13:44,545 - __main__ - INFO - Trading cycle completed
+2025-10-13 12:47:22,775 - __main__ - INFO - Starting trading cycle...
+2025-10-13 12:47:22,804 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-13 12:47:23,205 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-13 12:47:23,500 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-13 12:47:23,500 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-13 12:47:23,500 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-13 12:47:23,500 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-13 12:47:23,500 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-13 12:47:23,501 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-13 12:47:23,501 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 12:47:23,501 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-13 12:47:23,501 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-13 12:47:23,501 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-13 12:47:23,501 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-13 12:47:23,501 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-13 12:47:23,501 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-13 12:47:23,501 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-13 12:47:23,501 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-13 12:47:23,501 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-13 12:47:23,502 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-13 12:47:23,502 - __main__ - INFO - Trading cycle completed
+2025-10-13 13:29:05,123 - __main__ - INFO - Starting trading cycle...
+2025-10-13 13:29:05,124 - __main__ - INFO - Outside trading hours
+2025-10-13 13:59:05,926 - __main__ - INFO - Starting trading cycle...
+2025-10-13 13:59:05,930 - __main__ - INFO - Outside trading hours
+2025-10-13 14:32:08,838 - __main__ - INFO - Starting trading cycle...
+2025-10-13 14:32:08,940 - __main__ - INFO - Outside trading hours
+2025-10-13 15:06:21,084 - __main__ - INFO - Starting trading cycle...
+2025-10-13 15:06:21,085 - __main__ - INFO - Outside trading hours
+2025-10-13 15:39:25,319 - __main__ - INFO - Starting trading cycle...
+2025-10-13 15:39:25,320 - __main__ - INFO - Outside trading hours
+2025-10-13 16:09:26,216 - __main__ - INFO - Starting trading cycle...
+2025-10-13 16:09:26,218 - __main__ - INFO - Outside trading hours
+2025-10-13 16:39:26,615 - __main__ - INFO - Starting trading cycle...
+2025-10-13 16:39:26,618 - __main__ - INFO - Outside trading hours
+2025-10-13 17:10:49,104 - __main__ - INFO - Starting trading cycle...
+2025-10-13 17:10:49,107 - __main__ - INFO - Outside trading hours
+2025-10-13 17:43:58,872 - __main__ - INFO - Starting trading cycle...
+2025-10-13 17:43:58,872 - __main__ - INFO - Outside trading hours
+2025-10-13 18:13:58,906 - __main__ - INFO - Starting trading cycle...
+2025-10-13 18:13:58,909 - __main__ - INFO - Outside trading hours
+2025-10-13 18:48:09,690 - __main__ - INFO - Starting trading cycle...
+2025-10-13 18:48:09,692 - __main__ - INFO - Outside trading hours
+2025-10-13 19:21:06,190 - __main__ - INFO - Starting trading cycle...
+2025-10-13 19:21:06,192 - __main__ - INFO - Outside trading hours
+2025-10-13 19:55:34,292 - __main__ - INFO - Starting trading cycle...
+2025-10-13 19:55:34,294 - __main__ - INFO - Outside trading hours
+2025-10-13 20:28:59,564 - __main__ - INFO - Starting trading cycle...
+2025-10-13 20:28:59,565 - __main__ - INFO - Outside trading hours
+2025-10-13 21:02:51,606 - __main__ - INFO - Starting trading cycle...
+2025-10-13 21:02:51,624 - __main__ - INFO - Outside trading hours
+2025-10-13 21:32:52,230 - __main__ - INFO - Starting trading cycle...
+2025-10-13 21:32:52,235 - __main__ - INFO - Outside trading hours
+2025-10-13 22:02:52,281 - __main__ - INFO - Starting trading cycle...
+2025-10-13 22:02:52,285 - __main__ - INFO - Outside trading hours
+2025-10-13 22:32:53,253 - __main__ - INFO - Starting trading cycle...
+2025-10-13 22:32:53,257 - __main__ - INFO - Outside trading hours
+2025-10-13 23:13:08,549 - __main__ - INFO - Starting trading cycle...
+2025-10-13 23:13:08,551 - __main__ - INFO - Outside trading hours
+2025-10-13 23:49:28,589 - __main__ - INFO - Starting trading cycle...
+2025-10-13 23:49:28,592 - __main__ - INFO - Outside trading hours
+2025-10-14 00:21:56,981 - __main__ - INFO - Starting trading cycle...
+2025-10-14 00:21:56,982 - __main__ - INFO - Outside trading hours
+2025-10-14 00:57:55,018 - __main__ - INFO - Starting trading cycle...
+2025-10-14 00:57:55,020 - __main__ - INFO - Outside trading hours
+2025-10-14 01:29:22,655 - __main__ - INFO - Starting trading cycle...
+2025-10-14 01:29:22,656 - __main__ - INFO - Outside trading hours
+2025-10-14 02:04:02,800 - __main__ - INFO - Starting trading cycle...
+2025-10-14 02:04:02,802 - __main__ - INFO - Outside trading hours
+2025-10-14 02:36:51,934 - __main__ - INFO - Starting trading cycle...
+2025-10-14 02:36:51,936 - __main__ - INFO - Outside trading hours
+2025-10-14 03:08:34,022 - __main__ - INFO - Starting trading cycle...
+2025-10-14 03:08:34,029 - __main__ - INFO - Outside trading hours
+2025-10-14 03:41:17,141 - __main__ - INFO - Starting trading cycle...
+2025-10-14 03:41:17,144 - __main__ - INFO - Outside trading hours
+2025-10-14 04:16:06,296 - __main__ - INFO - Starting trading cycle...
+2025-10-14 04:16:06,299 - __main__ - INFO - Outside trading hours
+2025-10-14 04:49:57,497 - __main__ - INFO - Starting trading cycle...
+2025-10-14 04:49:57,512 - __main__ - INFO - Outside trading hours
+2025-10-14 05:30:01,768 - __main__ - INFO - Starting trading cycle...
+2025-10-14 05:30:01,794 - __main__ - INFO - Outside trading hours
+2025-10-14 06:02:36,882 - __main__ - INFO - Starting trading cycle...
+2025-10-14 06:02:36,883 - __main__ - INFO - Outside trading hours
+2025-10-14 06:35:31,052 - __main__ - INFO - Starting trading cycle...
+2025-10-14 06:35:31,055 - __main__ - INFO - Outside trading hours
+2025-10-14 07:14:31,734 - __main__ - INFO - Starting trading cycle...
+2025-10-14 07:14:31,748 - __main__ - INFO - Outside trading hours
+2025-10-14 07:49:14,803 - __main__ - INFO - Starting trading cycle...
+2025-10-14 07:49:14,807 - __main__ - INFO - Outside trading hours
+2025-10-14 08:30:44,485 - __main__ - INFO - Starting trading cycle...
+2025-10-14 08:30:44,487 - __main__ - INFO - Outside trading hours
+2025-10-14 09:09:20,757 - __main__ - INFO - Performing daily reset...
+2025-10-14 09:09:20,764 - portfolio_manager - INFO - Daily statistics reset
+2025-10-14 09:09:20,764 - __main__ - INFO - Daily reset completed
+2025-10-14 09:09:20,765 - __main__ - INFO - Starting trading cycle...
+2025-10-14 09:09:20,766 - __main__ - INFO - Outside trading hours
+2025-10-14 09:49:37,094 - __main__ - INFO - Starting trading cycle...
+2025-10-14 09:49:37,322 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-14 09:49:38,467 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 09:49:38,757 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 09:49:38,757 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 09:49:38,757 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 09:49:38,757 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 09:49:38,757 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 09:49:38,757 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 09:49:38,757 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 09:49:38,757 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 09:49:38,757 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 09:49:38,757 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 09:49:38,757 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 09:49:38,757 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 09:49:38,758 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 09:49:38,758 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 09:49:38,758 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 09:49:38,758 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 09:49:38,758 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 09:49:38,758 - __main__ - INFO - Trading cycle completed
+2025-10-14 10:24:05,953 - __main__ - INFO - Starting trading cycle...
+2025-10-14 10:24:12,965 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-14 10:24:14,268 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 10:24:14,615 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 10:24:14,615 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 10:24:14,615 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 10:24:14,615 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 10:24:14,616 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 10:24:14,616 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 10:24:14,616 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 10:24:14,616 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 10:24:14,616 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 10:24:14,616 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 10:24:14,616 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 10:24:14,616 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 10:24:14,616 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 10:24:14,616 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 10:24:14,617 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 10:24:14,617 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 10:24:14,617 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 10:24:14,617 - __main__ - INFO - Trading cycle completed
+2025-10-14 11:05:29,258 - __main__ - INFO - Starting trading cycle...
+2025-10-14 11:05:36,274 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-14 11:05:37,645 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 11:05:37,982 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 11:05:37,983 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 11:05:37,983 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 11:05:37,983 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 11:05:37,983 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 11:05:37,983 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 11:05:37,983 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 11:05:37,983 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 11:05:37,983 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 11:05:37,984 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 11:05:37,984 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 11:05:37,984 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 11:05:37,984 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 11:05:37,984 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 11:05:37,984 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 11:05:37,984 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 11:05:37,984 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 11:05:37,984 - __main__ - INFO - Trading cycle completed
+2025-10-14 11:38:43,040 - __main__ - INFO - Starting trading cycle...
+2025-10-14 11:38:50,059 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-14 11:38:57,548 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 11:38:57,841 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 11:38:57,842 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 11:38:57,842 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 11:38:57,842 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 11:38:57,842 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 11:38:57,842 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 11:38:57,842 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 11:38:57,843 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 11:38:57,843 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 11:38:57,843 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 11:38:57,843 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 11:38:57,843 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 11:38:57,843 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 11:38:57,843 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 11:38:57,843 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 11:38:57,843 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 11:38:57,843 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 11:38:57,843 - __main__ - INFO - Trading cycle completed
+2025-10-14 12:08:58,744 - __main__ - INFO - Starting trading cycle...
+2025-10-14 12:09:05,756 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-14 12:09:08,138 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 12:09:08,455 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 12:09:08,455 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 12:09:08,455 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 12:09:08,455 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 12:09:08,455 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 12:09:08,456 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 12:09:08,456 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 12:09:08,456 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 12:09:08,456 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 12:09:08,456 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 12:09:08,456 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 12:09:08,456 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 12:09:08,456 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 12:09:08,456 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 12:09:08,456 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 12:09:08,456 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 12:09:08,456 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 12:09:08,456 - __main__ - INFO - Trading cycle completed
+2025-10-14 12:39:09,380 - __main__ - INFO - Starting trading cycle...
+2025-10-14 12:39:09,928 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-14 12:39:10,310 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-14 12:39:10,661 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-14 12:39:10,661 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-14 12:39:10,661 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-14 12:39:10,661 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-14 12:39:10,662 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-14 12:39:10,662 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-14 12:39:10,662 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 12:39:10,662 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-14 12:39:10,662 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-14 12:39:10,662 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-14 12:39:10,662 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-14 12:39:10,662 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-14 12:39:10,662 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-14 12:39:10,662 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-14 12:39:10,662 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-14 12:39:10,663 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-14 12:39:10,663 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-14 12:39:10,663 - __main__ - INFO - Trading cycle completed
+2025-10-14 13:09:10,774 - __main__ - INFO - Starting trading cycle...
+2025-10-14 13:09:10,778 - __main__ - INFO - Outside trading hours
+2025-10-14 13:47:48,468 - __main__ - INFO - Starting trading cycle...
+2025-10-14 13:47:48,472 - __main__ - INFO - Outside trading hours
+2025-10-14 14:34:48,816 - __main__ - INFO - Starting trading cycle...
+2025-10-14 14:34:48,817 - __main__ - INFO - Outside trading hours
+2025-10-14 15:10:57,433 - __main__ - INFO - Starting trading cycle...
+2025-10-14 15:10:57,434 - __main__ - INFO - Outside trading hours
+2025-10-14 15:45:46,881 - __main__ - INFO - Starting trading cycle...
+2025-10-14 15:45:46,887 - __main__ - INFO - Outside trading hours
+2025-10-14 16:17:18,665 - __main__ - INFO - Starting trading cycle...
+2025-10-14 16:17:18,718 - __main__ - INFO - Outside trading hours
+2025-10-14 16:56:09,327 - __main__ - INFO - Starting trading cycle...
+2025-10-14 16:56:09,328 - __main__ - INFO - Outside trading hours
+2025-10-14 17:32:24,397 - __main__ - INFO - Starting trading cycle...
+2025-10-14 17:32:24,398 - __main__ - INFO - Outside trading hours
+2025-10-14 18:11:48,328 - __main__ - INFO - Starting trading cycle...
+2025-10-14 18:11:48,330 - __main__ - INFO - Outside trading hours
+2025-10-14 18:42:05,623 - __main__ - INFO - Starting trading cycle...
+2025-10-14 18:42:05,706 - __main__ - INFO - Outside trading hours
+2025-10-14 19:16:16,240 - __main__ - INFO - Starting trading cycle...
+2025-10-14 19:16:16,244 - __main__ - INFO - Outside trading hours
+2025-10-14 19:58:21,776 - __main__ - INFO - Starting trading cycle...
+2025-10-14 19:58:21,779 - __main__ - INFO - Outside trading hours
+2025-10-14 20:30:11,556 - __main__ - INFO - Starting trading cycle...
+2025-10-14 20:30:11,561 - __main__ - INFO - Outside trading hours
+2025-10-14 21:00:43,174 - __main__ - INFO - Starting trading cycle...
+2025-10-14 21:00:43,179 - __main__ - INFO - Outside trading hours
+2025-10-14 21:34:53,806 - __main__ - INFO - Starting trading cycle...
+2025-10-14 21:34:53,843 - __main__ - INFO - Outside trading hours
+2025-10-14 22:19:47,954 - __main__ - INFO - Starting trading cycle...
+2025-10-14 22:19:47,957 - __main__ - INFO - Outside trading hours
+2025-10-14 22:53:44,965 - __main__ - INFO - Starting trading cycle...
+2025-10-14 22:53:44,966 - __main__ - INFO - Outside trading hours
+2025-10-14 23:41:33,787 - __main__ - INFO - Starting trading cycle...
+2025-10-14 23:41:33,788 - __main__ - INFO - Outside trading hours
+2025-10-15 00:21:28,559 - __main__ - INFO - Starting trading cycle...
+2025-10-15 00:21:28,664 - __main__ - INFO - Outside trading hours
+2025-10-15 00:56:04,559 - __main__ - INFO - Starting trading cycle...
+2025-10-15 00:56:04,592 - __main__ - INFO - Outside trading hours
+2025-10-15 01:29:17,823 - __main__ - INFO - Starting trading cycle...
+2025-10-15 01:29:17,825 - __main__ - INFO - Outside trading hours
+2025-10-15 02:01:17,683 - __main__ - INFO - Starting trading cycle...
+2025-10-15 02:01:17,683 - __main__ - INFO - Outside trading hours
+2025-10-15 02:37:40,700 - __main__ - INFO - Starting trading cycle...
+2025-10-15 02:37:40,762 - __main__ - INFO - Outside trading hours
+2025-10-15 03:11:06,848 - __main__ - INFO - Starting trading cycle...
+2025-10-15 03:11:06,849 - __main__ - INFO - Outside trading hours
+2025-10-15 03:47:00,906 - __main__ - INFO - Starting trading cycle...
+2025-10-15 03:47:00,907 - __main__ - INFO - Outside trading hours
+2025-10-15 04:21:32,198 - __main__ - INFO - Starting trading cycle...
+2025-10-15 04:21:32,199 - __main__ - INFO - Outside trading hours
+2025-10-15 04:57:19,207 - __main__ - INFO - Starting trading cycle...
+2025-10-15 04:57:19,209 - __main__ - INFO - Outside trading hours
+2025-10-15 05:30:18,653 - __main__ - INFO - Starting trading cycle...
+2025-10-15 05:30:18,653 - __main__ - INFO - Outside trading hours
+2025-10-15 06:03:32,139 - __main__ - INFO - Starting trading cycle...
+2025-10-15 06:03:32,139 - __main__ - INFO - Outside trading hours
+2025-10-15 06:36:15,927 - __main__ - INFO - Starting trading cycle...
+2025-10-15 06:36:15,928 - __main__ - INFO - Outside trading hours
+2025-10-15 07:10:19,189 - __main__ - INFO - Starting trading cycle...
+2025-10-15 07:10:19,189 - __main__ - INFO - Outside trading hours
+2025-10-15 07:52:21,778 - __main__ - INFO - Starting trading cycle...
+2025-10-15 07:52:21,779 - __main__ - INFO - Outside trading hours
+2025-10-15 08:27:21,930 - __main__ - INFO - Starting trading cycle...
+2025-10-15 08:27:21,931 - __main__ - INFO - Outside trading hours
+2025-10-15 09:00:50,205 - __main__ - INFO - Starting trading cycle...
+2025-10-15 09:00:50,206 - __main__ - INFO - Outside trading hours
+2025-10-15 09:00:50,206 - __main__ - INFO - Performing daily reset...
+2025-10-15 09:00:50,206 - portfolio_manager - INFO - Daily statistics reset
+2025-10-15 09:00:50,206 - __main__ - INFO - Daily reset completed
+2025-10-15 09:36:36,311 - __main__ - INFO - Starting trading cycle...
+2025-10-15 09:36:36,780 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-15 09:36:37,119 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 09:36:37,458 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 09:36:37,459 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 09:36:37,459 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 09:36:37,459 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 09:36:37,459 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 09:36:37,459 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 09:36:37,459 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 09:36:37,459 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 09:36:37,459 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 09:36:37,460 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 09:36:37,460 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 09:36:37,460 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 09:36:37,460 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 09:36:37,460 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 09:36:37,460 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 09:36:37,460 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 09:36:37,460 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 09:36:37,460 - __main__ - INFO - Trading cycle completed
+2025-10-15 10:06:37,716 - __main__ - INFO - Starting trading cycle...
+2025-10-15 10:06:37,752 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 10:06:38,823 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 10:06:39,118 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 10:06:39,119 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 10:06:39,119 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 10:06:39,119 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 10:06:39,119 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 10:06:39,119 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 10:06:39,119 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 10:06:39,119 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 10:06:39,119 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 10:06:39,120 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 10:06:39,120 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 10:06:39,120 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 10:06:39,120 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 10:06:39,120 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 10:06:39,120 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 10:06:39,120 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 10:06:39,120 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 10:06:39,120 - __main__ - INFO - Trading cycle completed
+2025-10-15 10:43:10,524 - __main__ - INFO - Starting trading cycle...
+2025-10-15 10:43:11,159 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 10:43:11,572 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 10:43:11,894 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 10:43:11,895 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 10:43:11,895 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 10:43:11,895 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 10:43:11,895 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 10:43:11,895 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 10:43:11,895 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 10:43:11,895 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 10:43:11,896 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 10:43:11,896 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 10:43:11,896 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 10:43:11,896 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 10:43:11,896 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 10:43:11,896 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 10:43:11,896 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 10:43:11,896 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 10:43:11,896 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 10:43:11,896 - __main__ - INFO - Trading cycle completed
+2025-10-15 11:13:12,228 - __main__ - INFO - Starting trading cycle...
+2025-10-15 11:13:12,259 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 11:13:12,812 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 11:13:13,115 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 11:13:13,116 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 11:13:13,116 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 11:13:13,116 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 11:13:13,116 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 11:13:13,116 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 11:13:13,117 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 11:13:13,117 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 11:13:13,117 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 11:13:13,117 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 11:13:13,117 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 11:13:13,117 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 11:13:13,117 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 11:13:13,117 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 11:13:13,117 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 11:13:13,117 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 11:13:13,117 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 11:13:13,118 - __main__ - INFO - Trading cycle completed
+2025-10-15 11:43:13,580 - __main__ - INFO - Starting trading cycle...
+2025-10-15 11:43:13,740 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 11:43:14,395 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 11:43:14,743 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 11:43:14,744 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 11:43:14,744 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 11:43:14,744 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 11:43:14,744 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 11:43:14,744 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 11:43:14,744 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 11:43:14,744 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 11:43:14,744 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 11:43:14,745 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 11:43:14,745 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 11:43:14,745 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 11:43:14,745 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 11:43:14,745 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 11:43:14,745 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 11:43:14,745 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 11:43:14,745 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 11:43:14,745 - __main__ - INFO - Trading cycle completed
+2025-10-15 12:25:37,780 - __main__ - INFO - Starting trading cycle...
+2025-10-15 12:25:38,016 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 12:25:38,455 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 12:25:38,735 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 12:25:38,735 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 12:25:38,735 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 12:25:38,735 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 12:25:38,735 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 12:25:38,736 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 12:25:38,736 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 12:25:38,736 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 12:25:38,736 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 12:25:38,736 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 12:25:38,736 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 12:25:38,736 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 12:25:38,736 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 12:25:38,736 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 12:25:38,736 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 12:25:38,736 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 12:25:38,736 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 12:25:38,736 - __main__ - INFO - Trading cycle completed
+2025-10-15 12:57:31,925 - __main__ - INFO - Starting trading cycle...
+2025-10-15 12:57:31,993 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-15 12:57:32,398 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-15 12:57:32,701 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-15 12:57:32,702 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-15 12:57:32,702 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-15 12:57:32,702 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-15 12:57:32,702 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-15 12:57:32,702 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-15 12:57:32,702 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 12:57:32,702 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-15 12:57:32,702 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-15 12:57:32,703 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-15 12:57:32,703 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-15 12:57:32,703 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-15 12:57:32,703 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-15 12:57:32,703 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-15 12:57:32,703 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-15 12:57:32,703 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-15 12:57:32,703 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-15 12:57:32,703 - __main__ - INFO - Trading cycle completed
+2025-10-15 13:31:33,807 - __main__ - INFO - Starting trading cycle...
+2025-10-15 13:31:33,808 - __main__ - INFO - Outside trading hours
+2025-10-15 14:05:38,683 - __main__ - INFO - Starting trading cycle...
+2025-10-15 14:05:38,684 - __main__ - INFO - Outside trading hours
+2025-10-15 14:48:14,964 - __main__ - INFO - Starting trading cycle...
+2025-10-15 14:48:15,057 - __main__ - INFO - Outside trading hours
+2025-10-15 15:26:26,100 - __main__ - INFO - Starting trading cycle...
+2025-10-15 15:26:26,102 - __main__ - INFO - Outside trading hours
+2025-10-15 15:56:26,195 - __main__ - INFO - Starting trading cycle...
+2025-10-15 15:56:26,198 - __main__ - INFO - Outside trading hours
+2025-10-15 16:26:27,186 - __main__ - INFO - Starting trading cycle...
+2025-10-15 16:26:27,191 - __main__ - INFO - Outside trading hours
+2025-10-15 16:56:27,962 - __main__ - INFO - Starting trading cycle...
+2025-10-15 16:56:27,964 - __main__ - INFO - Outside trading hours
+2025-10-15 17:31:38,465 - __main__ - INFO - Starting trading cycle...
+2025-10-15 17:31:38,521 - __main__ - INFO - Outside trading hours
+2025-10-15 18:02:59,462 - __main__ - INFO - Starting trading cycle...
+2025-10-15 18:02:59,559 - __main__ - INFO - Outside trading hours
+2025-10-15 18:35:57,883 - __main__ - INFO - Starting trading cycle...
+2025-10-15 18:35:57,883 - __main__ - INFO - Outside trading hours
+2025-10-15 19:10:45,967 - __main__ - INFO - Starting trading cycle...
+2025-10-15 19:10:45,968 - __main__ - INFO - Outside trading hours
+2025-10-15 19:40:46,826 - __main__ - INFO - Starting trading cycle...
+2025-10-15 19:40:46,829 - __main__ - INFO - Outside trading hours
+2025-10-15 20:19:09,755 - __main__ - INFO - Starting trading cycle...
+2025-10-15 20:19:09,757 - __main__ - INFO - Outside trading hours
+2025-10-15 20:53:36,895 - __main__ - INFO - Starting trading cycle...
+2025-10-15 20:53:36,896 - __main__ - INFO - Outside trading hours
+2025-10-15 21:27:03,126 - __main__ - INFO - Starting trading cycle...
+2025-10-15 21:27:03,128 - __main__ - INFO - Outside trading hours
+2025-10-15 22:00:17,162 - __main__ - INFO - Starting trading cycle...
+2025-10-15 22:00:17,163 - __main__ - INFO - Outside trading hours
+2025-10-15 22:36:17,344 - __main__ - INFO - Starting trading cycle...
+2025-10-15 22:36:17,439 - __main__ - INFO - Outside trading hours
+2025-10-15 23:06:18,344 - __main__ - INFO - Starting trading cycle...
+2025-10-15 23:06:18,348 - __main__ - INFO - Outside trading hours
+2025-10-15 23:44:16,609 - __main__ - INFO - Starting trading cycle...
+2025-10-15 23:44:16,611 - __main__ - INFO - Outside trading hours
+2025-10-16 00:17:44,315 - __main__ - INFO - Starting trading cycle...
+2025-10-16 00:17:44,393 - __main__ - INFO - Outside trading hours
+2025-10-16 00:50:29,592 - __main__ - INFO - Starting trading cycle...
+2025-10-16 00:50:29,593 - __main__ - INFO - Outside trading hours
+2025-10-16 01:23:33,853 - __main__ - INFO - Starting trading cycle...
+2025-10-16 01:23:33,854 - __main__ - INFO - Outside trading hours
+2025-10-16 02:03:33,493 - __main__ - INFO - Starting trading cycle...
+2025-10-16 02:03:33,493 - __main__ - INFO - Outside trading hours
+2025-10-16 02:37:10,584 - __main__ - INFO - Starting trading cycle...
+2025-10-16 02:37:10,586 - __main__ - INFO - Outside trading hours
+2025-10-16 03:11:37,825 - __main__ - INFO - Starting trading cycle...
+2025-10-16 03:11:37,826 - __main__ - INFO - Outside trading hours
+2025-10-16 03:47:39,978 - __main__ - INFO - Starting trading cycle...
+2025-10-16 03:47:39,980 - __main__ - INFO - Outside trading hours
+2025-10-16 04:21:28,288 - __main__ - INFO - Starting trading cycle...
+2025-10-16 04:21:28,383 - __main__ - INFO - Outside trading hours
+2025-10-16 04:55:30,577 - __main__ - INFO - Starting trading cycle...
+2025-10-16 04:55:30,578 - __main__ - INFO - Outside trading hours
+2025-10-16 05:26:19,797 - __main__ - INFO - Starting trading cycle...
+2025-10-16 05:26:19,798 - __main__ - INFO - Outside trading hours
+2025-10-16 05:58:08,413 - __main__ - INFO - Starting trading cycle...
+2025-10-16 05:58:08,414 - __main__ - INFO - Outside trading hours
+2025-10-16 06:35:13,842 - __main__ - INFO - Starting trading cycle...
+2025-10-16 06:35:13,844 - __main__ - INFO - Outside trading hours
+2025-10-16 07:06:25,278 - __main__ - INFO - Starting trading cycle...
+2025-10-16 07:06:25,278 - __main__ - INFO - Outside trading hours
+2025-10-16 07:44:48,239 - __main__ - INFO - Starting trading cycle...
+2025-10-16 07:44:48,336 - __main__ - INFO - Outside trading hours
+2025-10-16 08:16:31,727 - __main__ - INFO - Starting trading cycle...
+2025-10-16 08:16:31,728 - __main__ - INFO - Outside trading hours
+2025-10-16 09:01:08,352 - __main__ - INFO - Starting trading cycle...
+2025-10-16 09:01:08,353 - __main__ - INFO - Outside trading hours
+2025-10-16 09:01:08,353 - __main__ - INFO - Performing daily reset...
+2025-10-16 09:01:08,353 - portfolio_manager - INFO - Daily statistics reset
+2025-10-16 09:01:08,353 - __main__ - INFO - Daily reset completed
+2025-10-16 09:45:02,098 - __main__ - INFO - Starting trading cycle...
+2025-10-16 09:45:09,119 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-16 09:45:09,511 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 09:45:09,786 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 09:45:09,786 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 09:45:09,786 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 09:45:09,786 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 09:45:09,786 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 09:45:09,787 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 09:45:09,787 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 09:45:09,787 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 09:45:09,787 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 09:45:09,787 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 09:45:09,787 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 09:45:09,787 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 09:45:09,787 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 09:45:09,787 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 09:45:09,787 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 09:45:09,787 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 09:45:09,788 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 09:45:09,788 - __main__ - INFO - Trading cycle completed
+2025-10-16 10:18:42,060 - __main__ - INFO - Starting trading cycle...
+2025-10-16 10:18:49,065 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-16 10:18:50,862 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 10:18:51,145 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 10:18:51,146 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 10:18:51,146 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 10:18:51,146 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 10:18:51,146 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 10:18:51,146 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 10:18:51,146 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 10:18:51,146 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 10:18:51,146 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 10:18:51,146 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 10:18:51,146 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 10:18:51,146 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 10:18:51,146 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 10:18:51,147 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 10:18:51,147 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 10:18:51,147 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 10:18:51,147 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 10:18:51,147 - __main__ - INFO - Trading cycle completed
+2025-10-16 11:01:42,294 - __main__ - INFO - Starting trading cycle...
+2025-10-16 11:01:49,308 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-16 11:01:49,699 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 11:01:50,024 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 11:01:50,024 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 11:01:50,024 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 11:01:50,024 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 11:01:50,025 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 11:01:50,025 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 11:01:50,025 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 11:01:50,025 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 11:01:50,025 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 11:01:50,025 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 11:01:50,025 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 11:01:50,025 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 11:01:50,025 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 11:01:50,025 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 11:01:50,025 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 11:01:50,025 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 11:01:50,025 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 11:01:50,025 - __main__ - INFO - Trading cycle completed
+2025-10-16 11:39:25,958 - __main__ - INFO - Starting trading cycle...
+2025-10-16 11:39:33,057 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-16 11:39:37,211 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 11:39:39,006 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 11:39:39,006 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 11:39:39,006 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 11:39:39,006 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 11:39:39,006 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 11:39:39,007 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 11:39:39,007 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 11:39:39,007 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 11:39:39,007 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 11:39:39,007 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 11:39:39,007 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 11:39:39,007 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 11:39:39,007 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 11:39:39,007 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 11:39:39,007 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 11:39:39,007 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 11:39:39,008 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 11:39:39,008 - __main__ - INFO - Trading cycle completed
+2025-10-16 12:09:39,851 - __main__ - INFO - Starting trading cycle...
+2025-10-16 12:09:46,863 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-16 12:09:49,071 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 12:09:49,405 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 12:09:49,405 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 12:09:49,405 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 12:09:49,406 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 12:09:49,406 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 12:09:49,406 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 12:09:49,406 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 12:09:49,406 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 12:09:49,406 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 12:09:49,406 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 12:09:49,406 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 12:09:49,406 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 12:09:49,406 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 12:09:49,407 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 12:09:49,407 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 12:09:49,407 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 12:09:49,407 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 12:09:49,407 - __main__ - INFO - Trading cycle completed
+2025-10-16 12:42:22,791 - __main__ - INFO - Starting trading cycle...
+2025-10-16 12:42:24,932 - kite_client - ERROR - Failed to get positions: Incorrect `api_key` or `access_token`.
+2025-10-16 12:42:25,301 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-16 12:42:25,721 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-16 12:42:25,721 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-16 12:42:25,721 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-16 12:42:25,721 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-16 12:42:25,722 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-16 12:42:25,722 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-16 12:42:25,722 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 12:42:25,722 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-16 12:42:25,722 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-16 12:42:25,722 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-16 12:42:25,722 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-16 12:42:25,722 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-16 12:42:25,722 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-16 12:42:25,722 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-16 12:42:25,722 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-16 12:42:25,722 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-16 12:42:25,722 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-16 12:42:25,722 - __main__ - INFO - Trading cycle completed
+2025-10-16 13:12:26,701 - __main__ - INFO - Starting trading cycle...
+2025-10-16 13:12:26,703 - __main__ - INFO - Outside trading hours
+2025-10-16 13:57:18,632 - __main__ - INFO - Starting trading cycle...
+2025-10-16 13:57:18,635 - __main__ - INFO - Outside trading hours
+2025-10-16 14:29:11,344 - __main__ - INFO - Starting trading cycle...
+2025-10-16 14:29:11,345 - __main__ - INFO - Outside trading hours
+2025-10-16 15:01:23,450 - __main__ - INFO - Starting trading cycle...
+2025-10-16 15:01:23,457 - __main__ - INFO - Outside trading hours
+2025-10-16 15:34:01,604 - __main__ - INFO - Starting trading cycle...
+2025-10-16 15:34:01,605 - __main__ - INFO - Outside trading hours
+2025-10-16 16:11:41,197 - __main__ - INFO - Starting trading cycle...
+2025-10-16 16:11:41,291 - __main__ - INFO - Outside trading hours
+2025-10-16 16:52:37,996 - __main__ - INFO - Starting trading cycle...
+2025-10-16 16:52:37,998 - __main__ - INFO - Outside trading hours
+2025-10-16 17:28:09,184 - __main__ - INFO - Starting trading cycle...
+2025-10-16 17:28:09,286 - __main__ - INFO - Outside trading hours
+2025-10-16 18:08:40,315 - __main__ - INFO - Starting trading cycle...
+2025-10-16 18:08:40,318 - __main__ - INFO - Outside trading hours
+2025-10-16 18:53:24,054 - __main__ - INFO - Starting trading cycle...
+2025-10-16 18:53:24,056 - __main__ - INFO - Outside trading hours
+2025-10-16 19:27:58,234 - __main__ - INFO - Starting trading cycle...
+2025-10-16 19:27:58,235 - __main__ - INFO - Outside trading hours
+2025-10-16 20:09:32,922 - __main__ - INFO - Starting trading cycle...
+2025-10-16 20:09:32,924 - __main__ - INFO - Outside trading hours
+2025-10-16 20:54:25,316 - __main__ - INFO - Starting trading cycle...
+2025-10-16 20:54:25,317 - __main__ - INFO - Outside trading hours
+2025-10-16 21:27:25,489 - __main__ - INFO - Starting trading cycle...
+2025-10-16 21:27:25,491 - __main__ - INFO - Outside trading hours
+2025-10-16 22:08:35,378 - __main__ - INFO - Starting trading cycle...
+2025-10-16 22:08:35,380 - __main__ - INFO - Outside trading hours
+2025-10-16 22:44:00,227 - __main__ - INFO - Starting trading cycle...
+2025-10-16 22:44:00,233 - __main__ - INFO - Outside trading hours
+2025-10-16 23:14:45,191 - __main__ - INFO - Starting trading cycle...
+2025-10-16 23:14:45,235 - __main__ - INFO - Outside trading hours
+2025-10-16 23:44:45,786 - __main__ - INFO - Starting trading cycle...
+2025-10-16 23:44:45,789 - __main__ - INFO - Outside trading hours
+2025-10-17 00:14:45,834 - __main__ - INFO - Starting trading cycle...
+2025-10-17 00:14:45,837 - __main__ - INFO - Outside trading hours
+2025-10-17 00:46:45,569 - __main__ - INFO - Starting trading cycle...
+2025-10-17 00:46:45,573 - __main__ - INFO - Outside trading hours
+2025-10-17 01:31:59,261 - __main__ - INFO - Starting trading cycle...
+2025-10-17 01:31:59,263 - __main__ - INFO - Outside trading hours
+2025-10-17 02:05:26,554 - __main__ - INFO - Starting trading cycle...
+2025-10-17 02:05:26,557 - __main__ - INFO - Outside trading hours
+2025-10-17 02:48:28,146 - __main__ - INFO - Starting trading cycle...
+2025-10-17 02:48:28,150 - __main__ - INFO - Outside trading hours
+2025-10-17 03:21:19,392 - __main__ - INFO - Starting trading cycle...
+2025-10-17 03:21:19,393 - __main__ - INFO - Outside trading hours
+2025-10-17 03:53:37,662 - __main__ - INFO - Starting trading cycle...
+2025-10-17 03:53:37,664 - __main__ - INFO - Outside trading hours
+2025-10-17 04:30:16,825 - __main__ - INFO - Starting trading cycle...
+2025-10-17 04:30:16,827 - __main__ - INFO - Outside trading hours
+2025-10-17 05:02:34,081 - __main__ - INFO - Starting trading cycle...
+2025-10-17 05:02:34,177 - __main__ - INFO - Outside trading hours
+2025-10-17 05:38:33,409 - __main__ - INFO - Starting trading cycle...
+2025-10-17 05:38:33,411 - __main__ - INFO - Outside trading hours
+2025-10-17 06:10:41,133 - __main__ - INFO - Starting trading cycle...
+2025-10-17 06:10:41,134 - __main__ - INFO - Outside trading hours
+2025-10-17 06:45:06,273 - __main__ - INFO - Starting trading cycle...
+2025-10-17 06:45:06,275 - __main__ - INFO - Outside trading hours
+2025-10-17 07:21:54,706 - __main__ - INFO - Starting trading cycle...
+2025-10-17 07:21:54,708 - __main__ - INFO - Outside trading hours
+2025-10-17 07:55:54,002 - __main__ - INFO - Starting trading cycle...
+2025-10-17 07:55:54,002 - __main__ - INFO - Outside trading hours
+2025-10-17 08:29:23,728 - __main__ - INFO - Starting trading cycle...
+2025-10-17 08:29:23,729 - __main__ - INFO - Outside trading hours
+2025-10-17 09:14:04,008 - __main__ - INFO - Starting trading cycle...
+2025-10-17 09:14:04,094 - __main__ - INFO - Outside trading hours
+2025-10-17 09:14:04,094 - __main__ - INFO - Performing daily reset...
+2025-10-17 09:14:04,094 - portfolio_manager - INFO - Daily statistics reset
+2025-10-17 09:14:04,094 - __main__ - INFO - Daily reset completed
+2025-10-17 09:53:26,786 - __main__ - INFO - Starting trading cycle...
+2025-10-17 09:53:33,794 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-17 09:53:34,137 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 09:53:34,407 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 09:53:34,408 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 09:53:34,409 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 09:53:34,409 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 09:53:34,409 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 09:53:34,409 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 09:53:34,409 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 09:53:34,409 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 09:53:34,409 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 09:53:34,409 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 09:53:34,409 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 09:53:34,409 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 09:53:34,409 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 09:53:34,410 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 09:53:34,410 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 09:53:34,410 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 09:53:34,410 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 09:53:34,410 - __main__ - INFO - Trading cycle completed
+2025-10-17 10:26:32,580 - __main__ - INFO - Starting trading cycle...
+2025-10-17 10:26:32,646 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-17 10:26:33,085 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 10:26:33,362 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 10:26:33,362 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 10:26:33,362 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 10:26:33,362 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 10:26:33,362 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 10:26:33,362 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 10:26:33,362 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 10:26:33,363 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 10:26:33,363 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 10:26:33,363 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 10:26:33,363 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 10:26:33,363 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 10:26:33,363 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 10:26:33,363 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 10:26:33,363 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 10:26:33,363 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 10:26:33,363 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 10:26:33,363 - __main__ - INFO - Trading cycle completed
+2025-10-17 11:04:27,581 - __main__ - INFO - Starting trading cycle...
+2025-10-17 11:04:27,642 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-17 11:04:28,092 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 11:04:28,401 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 11:04:28,401 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 11:04:28,401 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 11:04:28,401 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 11:04:28,402 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 11:04:28,402 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 11:04:28,402 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 11:04:28,402 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 11:04:28,402 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 11:04:28,402 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 11:04:28,402 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 11:04:28,402 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 11:04:28,402 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 11:04:28,402 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 11:04:28,402 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 11:04:28,402 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 11:04:28,402 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 11:04:28,402 - __main__ - INFO - Trading cycle completed
+2025-10-17 11:37:17,634 - __main__ - INFO - Starting trading cycle...
+2025-10-17 11:37:18,342 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-17 11:37:18,789 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 11:37:19,125 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 11:37:19,125 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 11:37:19,126 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 11:37:19,126 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 11:37:19,126 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 11:37:19,126 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 11:37:19,126 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 11:37:19,126 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 11:37:19,126 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 11:37:19,126 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 11:37:19,126 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 11:37:19,126 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 11:37:19,126 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 11:37:19,126 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 11:37:19,126 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 11:37:19,126 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 11:37:19,126 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 11:37:19,126 - __main__ - INFO - Trading cycle completed
+2025-10-17 12:07:19,165 - __main__ - INFO - Starting trading cycle...
+2025-10-17 12:07:19,225 - kite_client - ERROR - Failed to get positions: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2025-10-17 12:07:19,742 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 12:07:20,052 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 12:07:20,053 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 12:07:20,053 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 12:07:20,053 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 12:07:20,053 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 12:07:20,053 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 12:07:20,053 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 12:07:20,053 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 12:07:20,053 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 12:07:20,053 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 12:07:20,054 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 12:07:20,054 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 12:07:20,054 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 12:07:20,054 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 12:07:20,054 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 12:07:20,054 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 12:07:20,054 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 12:07:20,054 - __main__ - INFO - Trading cycle completed
+2025-10-17 12:37:20,277 - __main__ - INFO - Starting trading cycle...
+2025-10-17 12:37:27,299 - kite_client - ERROR - Failed to get positions: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+2025-10-17 12:37:27,723 - kite_client - ERROR - Failed to get holdings: Incorrect `api_key` or `access_token`.
+2025-10-17 12:37:28,050 - kite_client - ERROR - Failed to get margins: Incorrect `api_key` or `access_token`.
+2025-10-17 12:37:28,050 - __main__ - INFO - Portfolio value: ₹0.00
+2025-10-17 12:37:28,051 - __main__ - INFO - Day PnL: ₹0.00
+2025-10-17 12:37:28,051 - __main__ - INFO - Monthly profit: ₹0.00
+2025-10-17 12:37:28,051 - __main__ - INFO - 📊 Portfolio Allocation Analysis:
+2025-10-17 12:37:28,051 - __main__ - INFO -    Total Value: ₹0.00
+2025-10-17 12:37:28,051 - __main__ - INFO -    Gold/Silver: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 12:37:28,051 - __main__ - INFO -    Equities: ₹0.00 (0.0%) - Target: 50%
+2025-10-17 12:37:28,051 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Gold/Silver allocation
+2025-10-17 12:37:28,051 - __main__ - INFO - ⚠️ Portfolio rebalancing needed for Equity allocation
+2025-10-17 12:37:28,051 - __main__ - INFO - 💡 Trading Suggestions:
+2025-10-17 12:37:28,051 - __main__ - INFO -    📈 Consider buying more Gold/Silver ETFs (current: 0.0%)
+2025-10-17 12:37:28,051 - __main__ - INFO -    Suggested: GOLDBEES, SILVERBEES
+2025-10-17 12:37:28,052 - __main__ - INFO -    📈 Consider buying more equities (current: 0.0%)
+2025-10-17 12:37:28,052 - __main__ - INFO -    Suggested: RELIANCE, TCS, HDFCBANK, INFY
+2025-10-17 12:37:28,052 - __main__ - INFO -    🎯 Monthly goal: 0.00% (Target: 7.0%)
+2025-10-17 12:37:28,052 - __main__ - INFO -    Need 7.00% more to reach monthly goal
+2025-10-17 12:37:28,052 - __main__ - INFO - Trading cycle completed
+2025-10-17 13:07:28,693 - __main__ - INFO - Starting trading cycle...
+2025-10-17 13:07:28,696 - __main__ - INFO - Outside trading hours

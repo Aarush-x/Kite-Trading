@@ -1,8 +1,8 @@
-# 🚀 Kite Trading Bot
+# Kite Trading Bot
 
 An automated trading and portfolio management system built for Zerodha Kite Connect API. This bot helps you automate your trading strategies while maintaining proper risk management and portfolio diversification.
 
-## ✨ Features
+## Features
 
 - **Automated Trading**: Execute trades based on technical analysis strategies
 - **Portfolio Management**: Monitor and manage your portfolio with risk controls
@@ -12,7 +12,7 @@ An automated trading and portfolio management system built for Zerodha Kite Conn
 - **Scheduled Trading**: Automated trading cycles during market hours
 - **Comprehensive Logging**: Detailed logs for all trading activities
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -34,14 +34,14 @@ An automated trading and portfolio management system built for Zerodha Kite Conn
      ACCESS_TOKEN = "your_actual_access_token"
      ```
 
-## 🔑 Getting Your Kite Connect Credentials
+##  Getting Your Kite Connect Credentials
 
 1. **API Key & Secret**: Get these from your [Kite Connect app settings](https://kite.trade/apps/)
 2. **Access Token**: 
    - Use the login flow to get your access token
    - Or use the `get_access_token.py` script (create this if needed)
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Update your credentials** in `config.py`
 2. **Run the bot**:
@@ -55,7 +55,7 @@ The bot will:
 - Execute trades based on the selected strategy
 - Log all activities to `trading_bot.log`
 
-## 📊 Trading Strategies
+##  Trading Strategies
 
 ### 1. RSI Strategy
 - **Buy Signal**: RSI < 30 (oversold) and price above 20-day MA
@@ -69,7 +69,7 @@ The bot will:
 - **Buy Signal**: Price touches lower band (oversold)
 - **Sell Signal**: Price touches upper band (overbought)
 
-## ⚙️ Configuration
+## Configuration
 
 Edit `config.py` to customize:
 
@@ -89,7 +89,7 @@ WATCHLIST = [
 ]
 ```
 
-## 📈 Portfolio Management
+## Portfolio Management
 
 The bot includes comprehensive portfolio management features:
 
@@ -98,7 +98,7 @@ The bot includes comprehensive portfolio management features:
 - **Rebalancing**: Suggestions for portfolio rebalancing
 - **Performance Tracking**: Real-time P&L and performance metrics
 
-## 🛡️ Risk Management
+## Risk Management
 
 Built-in risk controls:
 
@@ -109,7 +109,7 @@ Built-in risk controls:
 - ✅ Portfolio concentration limits
 - ✅ Daily trade limits
 
-## 📝 Logging
+##  Logging
 
 All activities are logged to `trading_bot.log`:
 
@@ -120,7 +120,7 @@ All activities are logged to `trading_bot.log`:
 2024-01-15 09:30:03 - INFO - Order placed: BUY 10 RELIANCE @ ₹2,450
 ```
 
-## 🔧 Advanced Usage
+##  Advanced Usage
 
 ### Custom Strategies
 
@@ -158,7 +158,7 @@ self.strategy_manager.set_active_strategy("ma_crossover")  # or "rsi", "bollinge
 4. **Monitoring**: Keep an eye on the bot's performance and logs
 5. **API Limits**: Be aware of Kite Connect API rate limits
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -175,11 +175,11 @@ self.strategy_manager.set_active_strategy("ma_crossover")  # or "rsi", "bollinge
    - Install all dependencies: `pip install -r requirements.txt`
    - Check Python version (3.8+)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -187,7 +187,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This software is for educational purposes only. Trading involves risk, and you should never trade with money you cannot afford to lose. The authors are not responsible for any financial losses.
 
-## 📞 Support
+## Support
 
 For support, please open an issue on GitHub or contact the maintainers.
 
