@@ -34,12 +34,12 @@ python simple_swing_bot.py
 - **Logs all activities** to `simple_swing_bot.log`
 
 ### **3. Key Features:**
-- ✅ **Portfolio Allocation Tracking**: Ensures 50/50 split
-- ✅ **Profit Target Monitoring**: Alerts when 8.5% profit is reached
-- ✅ **Monthly Goal Tracking**: Tracks progress toward 7% monthly goal
-- ✅ **Trading Suggestions**: Provides buy/sell recommendations
-- ✅ **Risk Management**: Built-in stop-loss and position sizing
-- ✅ **US Timezone Compatible**: Works with your 9:30 AM - 1:00 PM schedule
+-  **Portfolio Allocation Tracking**: Ensures 50/50 split
+-  **Profit Target Monitoring**: Alerts when 8.5% profit is reached
+-  **Monthly Goal Tracking**: Tracks progress toward 7% monthly goal
+-  **Trading Suggestions**: Provides buy/sell recommendations
+-  **Risk Management**: Built-in stop-loss and position sizing
+-  **US Timezone Compatible**: Works with your 9:30 AM - 1:00 PM schedule
 
 ##  **Current Watchlist:**
 
@@ -89,7 +89,7 @@ Monthly Goal: 7.0%
    Equities: ₹6,173.10 (50.0%) - Target: 50%
 
  Trading Suggestions:
-   📈 Consider buying more Gold/Silver ETFs (current: 45.0%)
+   Consider buying more Gold/Silver ETFs (current: 45.0%)
    Suggested: GOLDBEES, SILVERBEES
 
  Monthly goal: 2.5% (Target: 7.0%)
@@ -118,7 +118,7 @@ Monthly Goal: 7.0%
 3. **Adjust parameters** in `config.py` as needed
 4. **Monitor performance** and adjust strategy
 
-## ⚠️ **Important Notes:**
+##  **Important Notes:**
 
 - **Paper Trading First**: Test with small amounts
 - **Monitor Regularly**: Check logs and portfolio
