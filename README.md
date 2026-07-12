@@ -102,12 +102,12 @@ The bot includes comprehensive portfolio management features:
 
 Built-in risk controls:
 
-- ✅ Maximum position size limits
-- ✅ Daily loss limits
-- ✅ Stop-loss orders
-- ✅ Take-profit targets
-- ✅ Portfolio concentration limits
-- ✅ Daily trade limits
+-  Maximum position size limits
+-  Daily loss limits
+-  Stop-loss orders
+-  Take-profit targets
+-  Portfolio concentration limits
+-  Daily trade limits
 
 ##  Logging
 
@@ -150,7 +150,7 @@ Change the active strategy in `main.py`:
 self.strategy_manager.set_active_strategy("ma_crossover")  # or "rsi", "bollinger"
 ```
 
-## ⚠️ Important Notes
+## Important Notes
 
 1. **Paper Trading First**: Test with small amounts before using real money
 2. **Market Hours**: Bot only trades during market hours (9:15 AM - 3:30 PM IST)
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This software is for educational purposes only. Trading involves risk, and you should never trade with money you cannot afford to lose. The authors are not responsible for any financial losses.
 
@@ -193,4 +193,4 @@ For support, please open an issue on GitHub or contact the maintainers.
 
 ---
 
-**Happy Trading! 📈**
+**Happy Trading!**
